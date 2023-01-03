@@ -140,8 +140,8 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 PRODUCT_DEX_PREOPT_DEFAULT_COMPILER_FILTER := verify
 
 # DeviceSettings
-PRODUCT_PACKAGES += \
-    XiaomiParts
+#PRODUCT_PACKAGES += \
+#    XiaomiParts
 
 # Display
 PRODUCT_PACKAGES += \
